@@ -23,6 +23,10 @@ h3 {
 	font-size: 32px;
 }
 
-ul, ol {
+ol, ul {
 	display: inline-block;
+}
+
+li {
+	text-align: left;
 }
